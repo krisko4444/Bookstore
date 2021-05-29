@@ -1,2 +1,3 @@
 # Bookstore
-bookstore spring project
+bookstore project
+using spring boot, h2 and rest api
